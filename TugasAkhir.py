@@ -7,7 +7,7 @@ class keluar:
     def keluar():
         for n in range(1):
             ucapan="Terimakasih telah menggunakan jasa GB EXP iEx"
-            messagebox.showinfo("iEx Jasa GB Point Blank", ucapan)
+            messagebox.showinfo("iEx Jasa GB Game Online", ucapan)
             exit(0)
 
 #Menu Point Blank
