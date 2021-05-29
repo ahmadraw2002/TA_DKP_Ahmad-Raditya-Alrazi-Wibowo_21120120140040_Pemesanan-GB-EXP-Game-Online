@@ -46,7 +46,7 @@ def PB():
                 exp="100 JT EXP"
                 waktu="1 Bulan"
             keluar =  "Nick Name: " + stringnick.get()+ "\nPilihan exp: " + exp + "\nDengan harga Rp" + harga + "\nAkan di proses selama " + waktu
-            messagebox.showinfo("iEx Jasa GB Game Point Blank", keluar)
+            messagebox.showinfo("iEx Jasa GB Game Online", keluar)
             return 0
 
     global bg1
